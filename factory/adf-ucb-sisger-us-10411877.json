@@ -1,0 +1,10 @@
+{
+	"name": "adf-ucb-sisger-us-10411877",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth"
+}
